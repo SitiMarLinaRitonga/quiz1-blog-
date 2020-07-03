@@ -5,7 +5,7 @@
 
 <div class="container">
 
-<h3>Daftar Category</h3>
+<h3>Daftar Album</h3>
 
 <table>
  <tr>
